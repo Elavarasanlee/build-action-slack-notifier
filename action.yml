@@ -44,7 +44,7 @@ inputs:
   icon_success:
     description: Specify on icon to be used when event is success
     required: false
-    default: ":heavy_check_mark:"
+    default: ":partying_face:"
   icon_failure:
     description: Specify on icon to be used when event is failure
     required: false
